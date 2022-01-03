@@ -3,13 +3,13 @@
 >Take your first steps with R. In this chapter, you will learn how to use the console as a calculator and how to assign variables. You will also get to know the basic data types in R. Let's get started.
 
 1. How it works
-- Arithmetic with R
-- Variable assignment
-- Variable assignment (2)
-- Variable assignment (3)
-- Apples and oranges
-- Basic data types in R
-- What's that data type?
+2. Arithmetic with R
+3. Variable assignment
+4. Variable assignment (2)
+5. Variable assignment (3)
+6. Apples and oranges
+7. Basic data types in R
+8. What's that data type?
 
 ---
 #### 1. How it works
